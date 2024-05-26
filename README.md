@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)](https://rishavchanda.io)
 <h1 align="center">Hi there 👋 </h1>
 <h3 align="center">I'm a passionate Software Developer !</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6c/21/bf/6c21bf379b6875cd7705cf26e0270f4c.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9c/a6/98/9ca698c2e10fe61210fe9947c5e4be66.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithscript&label=Profile%20views&color=0e75b6&style=flat" alt="janithscript" /> </p>
