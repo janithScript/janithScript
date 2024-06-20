@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%2346A7EF&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23C2E5FF&center=true&width=280&height=50">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1f/b8/2f/1fb82fd964c6a7a36b4c93fd786cbad4.gif">
