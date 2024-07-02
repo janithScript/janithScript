@@ -74,9 +74,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=janithscript&show_icons=true&locale=en&theme=dark" alt="janithscript" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithscript&theme=dark" alt="janithscript" />
-</p>
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janithscript&theme=dark)
+
+
+
+
 
 
 
